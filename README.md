@@ -4,7 +4,7 @@ Meu nome é Érico Dos Santos e eu sou **Full-Stack Developer** desde 2023,
 atualmente estou cursando Desenvolvimento de SoftWare com foco em Backend na Cubos Academy e,
 no segundo semestre de Análise e Desenvolvimento de Sistemas na UNIJORGE.
 
-### Expreriência 
+### Experiência 
 -   Facinado por programação e buscando sempre aprimorar os meus conhecimentos.                       
 -   Adoro um desafio, pois eles possibilitam minha evolução.
 
